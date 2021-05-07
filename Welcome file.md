@@ -1,7 +1,8 @@
 ---
 title: Welcome
 subtitle: This is the welcome page to stackedit
-subblurb:  M
+subblurb:  More detail here
+
 ---
 # Welcome to StackEdit!
 
@@ -147,5 +148,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMyNTk5NjQsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTU0NDIzNTM5M119
 -->
